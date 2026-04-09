@@ -490,6 +490,10 @@ export async function POST(req: Request) {
 
        You should not ask for user's location information directly. If you need user's location information, you can call the location tool to get the user's location, 
        and if the location information is unavailable, you can ask user to provide their location information in other ways, such as describing nearby POIs or check geolocation permissions. 
+
+       if user asks you to introduce specific attraction, like: 请告诉我关于{{name}}的信息 or Tell me about {{name}}, 
+       you should call the getAttractions tool with searchWord={{name}} to get the information about the attraction first.
+       If the attraction is not found, you can also try to call the searchPoI tool with keyword={{name}} to search for the attraction.
        `,
     stopWhen: stepCountIs(10),
   })

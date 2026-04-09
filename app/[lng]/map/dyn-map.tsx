@@ -7,11 +7,12 @@ import {
   useRef,
   useState,
   useMemo,
+  useCallback,
   createContext,
   useContext,
 } from "react"
 import { useIsMobile } from "@/hooks/use-mobile"
-import { Card, CardContent, CardHeader } from "@/components/ui/card"
+import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { useT } from "next-i18next/client"
 import { Input } from "@/components/ui/input"
@@ -29,6 +30,7 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion"
+import { Link } from "@/components/widgets/lang-link-client"
 
 function MapFallback() {
   const { t } = useT()
@@ -190,8 +192,7 @@ function DesktopMapWidgetWrapper({
 
   const { setAttraction, setOpen } = useAttractionOverlay()
 
-  // update markers on the map when filtered attractions change
-  useEffect(() => {
+  const updateMapMarkers = useCallback(() => {
     if (mapRef.current) {
       // clear existing markers
       mapRef.current.clearMap()
@@ -208,7 +209,21 @@ function DesktopMapWidgetWrapper({
         })
       })
     }
-  }, [filteredAttractions, lang, mapRef, setAttraction, setOpen])
+  }, [filteredAttractions, lang, setAttraction, setOpen, mapRef])
+
+  // update markers on the map when filtered attractions change
+  useEffect(() => {
+    setTimeout(() => {
+      updateMapMarkers()
+    }, 500)
+  }, [filteredAttractions, updateMapMarkers])
+
+  // auto update markers when init.
+  useEffect(() => {
+    setTimeout(() => {
+      updateMapMarkers()
+    }, 3000)
+  }, [updateMapMarkers])
 
   return (
     <div className="pointer-events-none fixed top-0 left-0 flex h-screen w-screen items-center justify-end p-10">
@@ -290,26 +305,66 @@ function MobileMapWidgetWrapper({
 
 function MapAttractionOverlay() {
   const { attraction, open, setOpen } = useAttractionOverlay()
-  const { t } = useT()
-  const lang = attraction ? getLangInfo(attraction, "en") : null
+  const { t, i18n } = useT()
+  const resolvedLanguage = (i18n.resolvedLanguage || "en") as "en" | "zh_cn"
+  const lang = attraction ? getLangInfo(attraction, resolvedLanguage) : null
+  // this should not be null
+  if (!lang) {
+    return null
+  }
+
   return (
     <div
       className={cn(
-        "fixed inset-0 isolate z-50 duration-100 ",
+        "fixed inset-0 isolate z-50 duration-100",
         open
-          ? "animate-in bg-white/10 fade-in-0 supports-backdrop-filter:backdrop-blur-xs dark:bg-black/10 pointer-events-auto"
-          : "animate-out fade-out-0 pointer-events-none"
+          ? "pointer-events-auto animate-in bg-white/10 fade-in-0 supports-backdrop-filter:backdrop-blur-xs dark:bg-black/10"
+          : "pointer-events-none animate-out fade-out-0"
       )}
-      onClick={() => {setOpen(false)}}
+      onClick={() => {
+        setOpen(false)
+      }}
     >
-      <div className={cn("h-full w-full ", open ? "flex": "hidden")}>
+      <div className={cn("h-full w-full", open ? "flex" : "hidden")}>
         <Card className="m-auto w-11/12 rounded-lg md:w-1/3">
           <CardHeader>
-            <h3 className="text-lg font-semibold">{lang?.name}</h3>
+            <h3 className="text-2xl font-semibold">{lang.name}</h3>
+            <p className="text-sm text-secondary-foreground">{lang.address}</p>
           </CardHeader>
-            <CardContent>
-              <p>{lang?.description}</p>
+          <CardContent>
+            <h3 className="text-lg font-bold">{t("attraction.description")}</h3>
+            <p>{lang.description}</p>
+            {/* opening hours */}
+            <h3 className="mt-4 text-lg font-bold">
+              {t("attraction.opening_hours")}
+            </h3>
+            <h4 className="text-sm font-semibold">{lang.opening_hours}</h4>
+            {/* pricing */}
+            <h3 className="mt-4 text-lg font-bold">
+              {t("attraction.pricing")}
+            </h3>
+            <h4 className="text-sm font-semibold">{lang.pricing}</h4>
+            {/* directions */}
+            <h3 className="mt-4 text-lg font-bold">
+              {t("attraction.direction")}
+            </h3>
+            <h4 className="text-sm font-semibold">{lang.directions}</h4>
           </CardContent>
+          <CardFooter>
+            <Link
+              href={`/assistant?search=${encodeURIComponent(
+                t("attraction.ai_search_format", {
+                  name: lang.name,
+                })
+              )}`}
+              className="w-full"
+            >
+              <Button className="w-full">{t("common.try_ai")}</Button>
+            </Link>
+            <Button onClick={() => setOpen(false)} variant={"outline"}>
+              {t("common.close")}
+            </Button>
+          </CardFooter>
         </Card>
       </div>
     </div>

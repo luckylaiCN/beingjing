@@ -215,8 +215,8 @@ function MessagePage({ messages }: { messages: UIMessage[] }) {
   )
 }
 
-function InsideWrapper() {
-  const [search, setSearch] = useState("")
+function InsideWrapper({ initialSearch }: { initialSearch?: string }) {
+  const [search, setSearch] = useState(initialSearch || "")
   const { t } = useT()
   const example_prompts = [
     t("assistant.example_prompt_1"),
@@ -271,10 +271,14 @@ function InsideWrapper() {
   )
 }
 
-export default function HomeSearch() {
+export default function HomeSearch({
+  initialSearch = "",
+}: {
+  initialSearch?: string
+}) {
   return (
     <MapProvider>
-      <InsideWrapper />
+      <InsideWrapper initialSearch={initialSearch} />
     </MapProvider>
   )
 }

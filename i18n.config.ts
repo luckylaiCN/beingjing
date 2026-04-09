@@ -4,7 +4,7 @@ const i18nConfig: I18nConfig = {
   supportedLngs: ["en", "zh_cn"],
   fallbackLng: "en",
   defaultNS: "common",
-  ns: ["common", "citywalk"],
+  ns: ["common", "citywalk", "buddy", "indoor", "aboutUs"],
   resourceLoader: (lng, ns) => import(`./app/i18n/locales/${lng}/${ns}.json`),
 }
 
