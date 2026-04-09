@@ -1,4 +1,3 @@
-version: '3.8'
 services:
   nextjs-app:
     build:
@@ -15,7 +14,7 @@ services:
       - .:/app
       - /app/node_modules
     networks:
-      dm_networks:
+      dm_network:
         ipv4_address: 172.18.0.3
 
 networks:
