@@ -2,13 +2,23 @@ version: '3.8'
 services:
   nextjs-app:
     build:
-      context:
+      context: .
       dockerfile: Dockerfile
-    container_name: nextjs_app
+    container_name: beingjing
     ports:
       - "4000:3000"
     environment:
       NODE_ENV: production
+      CUSTOM_API_KEY: ${CUSTOM_API_KEY}
+      AMAP_API_KEY: ${AMAP_API_KEY}
     volumes:
       - .:/app
       - /app/node_modules
+    networks:
+      dm_networks:
+        ipv4_address: 172.18.0.3
+
+networks:
+  dm_network:
+    external: true
+    name: my_network
