@@ -1,0 +1,1450 @@
+[
+    {
+        "category": "dining_experiences",
+        "id": 1,
+        "poiName": "四季民福烤鸭店(故宫店)",
+        "lng": 116.402873,
+        "lat": 39.914525,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "四季民福烤鸭店（故宫店）",
+            "description": "故宫旁景观烤鸭店，可边品正宗京味烤鸭边赏紫禁城全景，英文服务完善+F2",
+            "address": "东城区南池子大街11号",
+            "opening_hours": "10:00-21:00（节假日延长至21:30）",
+            "pricing": "人均160元，烤鸭套餐298元/套起",
+            "directions": "地铁1号线天安门东站C口出，步行800米；公交1、2、52路天安门东站下车，步行5分钟"
+        },
+        "en": {
+            "name": "Siji Minfu Peking Duck (Forbidden City Branch)",
+            "description": "A scenic Peking duck restaurant by the Forbidden City, where you can savor authentic flavors while enjoying panoramic palace views; full English service available",
+            "address": "No. 11 Nanchizi Street, Dongcheng District",
+            "opening_hours": "10:00–21:00 (extended to 21:30 on public holidays)",
+            "pricing": "Around RMB 160 per person; Peking duck set menus from RMB 298",
+            "directions": "Subway Line 1 to Tian'anmen East Station (Exit C), 800 m walk; Bus 1, 2, or 52 to Tian'anmen East, 5-minute walk"
+        }
+    },
+    {
+        "category": "dining_experiences",
+        "id": 2,
+        "poiName": "方砖厂69号炸酱面(南锣鼓巷店)",
+        "lng": 116.403162,
+        "lat": 39.940615,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "方砖厂69号炸酱面（南锣鼓巷店）",
+            "description": "胡同里的老北京炸酱面代表，可观摩制作过程，性价比高，涉外友好",
+            "address": "东城区南锣鼓巷18号",
+            "opening_hours": "09:30-21:30",
+            "pricing": "人均45元，招牌炸酱面35元/碗，加菜10-15元/份",
+            "directions": "地铁6、8号线南锣鼓巷站E口出，步行300米；公交107、124路宝钞胡同站下车，步行2分钟"
+        },
+        "en": {
+            "name": "Fangzhuanchang No.69 Zhajiang Noodles (Nanluoguxiang Branch)",
+            "description": "A hutong favorite for classic Beijing zhajiang noodles, with live preparation to watch; great value and foreigner-friendly",
+            "address": "No. 18 Nanluoguxiang, Dongcheng District",
+            "opening_hours": "09:30–21:30",
+            "pricing": "Around RMB 45 per person; signature zhajiang noodles RMB 35 per bowl; add-ons RMB 10-15",
+            "directions": "Subway Lines 6/8 to Nanluoguxiang (Exit E), 300 m walk; Bus 107 or 124 to Baochao Hutong, 2-minute walk"
+        }
+    },
+    {
+        "category": "dining_experiences",
+        "id": 3,
+        "poiName": "护国寺小吃(护国寺总店)",
+        "lng": 116.375257,
+        "lat": 39.934942,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "护国寺小吃（总店）",
+            "description": "京味小吃集合地，驴打滚、艾窝窝等传统美食一站式体验，平价亲民",
+            "address": "西城区护国寺街93号",
+            "opening_hours": "08:00-20:00",
+            "pricing": "人均35元，单品5-20元/份，小吃拼盘88元/份（含6种经典小吃）",
+            "directions": "地铁4号线平安里站C口出，步行500米；公交701、88路护国寺站下车，步行1分钟"
+        },
+        "en": {
+            "name": "Huguosi Snack Bar (Main Branch)",
+            "description": "A one-stop hub for traditional Beijing snacks like lüdagun and aiwowo; affordable and perfect for sampling local flavors",
+            "address": "No. 93 Huguosi Street, Xicheng District",
+            "opening_hours": "08:00–20:00",
+            "pricing": "Around RMB 35 per person; individual snacks RMB 5-20; snack sampler platter RMB 88 (includes 6 classic items)",
+            "directions": "Subway Line 4 to Ping'anli (Exit C), 500 m walk; Bus 701 or 88 to Huguosi, 1-minute walk"
+        }
+    },
+    {
+        "category": "dining_experiences",
+        "id": 4,
+        "poiName": "清真•鸦儿李记•小馆(后海店)",
+        "lng": 116.393101,
+        "lat": 39.939526,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "鸦儿李记（后海店）",
+            "description": "后海旁清真铜锅涮肉，边赏湖景边吃鲜切羊肉，涉外服务成熟",
+            "address": "西城区后海北沿19号",
+            "opening_hours": "11:00-22:00（夏季延长至23:00）",
+            "pricing": "人均120元，鲜切羊肉68元/份，铜锅锅底30元",
+            "directions": "地铁8号线什刹海站A口出，步行600米；公交5、635路德内甘水桥站下车，步行8分钟"
+        },
+        "en": {
+            "name": "Yaar Li Ji (Houhai Branch)",
+            "description": "Halal copper-pot hotpot by Houhai Lake, offering hand-sliced lamb with lakeside views; well-equipped for international guests",
+            "address": "No. 19 Houhai Beiyan, Xicheng District",
+            "opening_hours": "11:00–22:00 (extended to 23:00 in summer)",
+            "pricing": "Around RMB 120 per person; freshly sliced lamb RMB 68; traditional copper hotpot base RMB 30",
+            "directions": "Subway Line 8 to Shichahai (Exit A), 600 m walk; Bus 5 or 635 to Denei Ganshuiqiao, 8-minute walk"
+        }
+    },
+    {
+        "category": "dining_experiences",
+        "id": 5,
+        "poiName": "京兆尹(雍和宫店)",
+        "lng": 116.416146,
+        "lat": 39.948322,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "reservation_required",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "京兆尹（米其林素食）",
+            "description": "四合院中的米其林三星素食，高端精致，融合传统与创新，英文服务一流",
+            "address": "东城区五道营胡同2号",
+            "opening_hours": "11:30-14:30，17:30-21:00（周一闭店）",
+            "pricing": "人均680元，午市套餐580元/人，晚市套餐880元/人",
+            "directions": "地铁2号线雍和宫站D口出，步行400米；公交13、684路五道营胡同站下车，步行3分钟"
+        },
+        "en": {
+            "name": "King’s Joy (Michelin-Starred Vegetarian)",
+            "description": "A Michelin three-star vegetarian dining experience set in a courtyard house, blending tradition with innovation; top-tier English service",
+            "address": "No. 2 Wudaoying Hutong, Dongcheng District",
+            "opening_hours": "11:30–14:30, 17:30–21:00 (closed Mondays)",
+            "pricing": "Around RMB 680 per person; lunch set RMB 580 per person; dinner set RMB 880 per person",
+            "directions": "Subway Line 2 to Yonghegong (Exit D), 400 m walk; Bus 13 or 684 to Wudaoying Hutong, 3-minute walk"
+        }
+    },
+    {
+        "category": "dining_experiences",
+        "id": 6,
+        "poiName": "全聚德烤鸭店(前门店)",
+        "lng": 116.398244,
+        "lat": 39.89663,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "全聚德（前门店）",
+            "description": "百年烤鸭老字号，前门店历史最久，传统挂炉烤鸭技艺，涉外接待经验丰富",
+            "address": "东城区前门大街30号",
+            "opening_hours": "10:00-21:00",
+            "pricing": "人均180元，经典烤鸭328元/只，鸭架汤68元/份",
+            "directions": "地铁2号线前门站C口出，步行200米；公交5、17、20路前门站下车，步行1分钟"
+        },
+        "en": {
+            "name": "Quanjude Roast Duck (Qianmen Branch)",
+            "description": "A century-old Peking duck institution at Qianmen, famed for its traditional hanging-oven technique; highly experienced with international visitors",
+            "address": "No. 30 Qianmen Street, Dongcheng District",
+            "opening_hours": "10:00–21:00",
+            "pricing": "Around RMB 180 per person; classic roast duck RMB 328 each; duck carcass soup RMB 68",
+            "directions": "Subway Line 2 to Qianmen (Exit C), 200 m walk; Bus 5, 17, or 20 to Qianmen, 1-minute walk"
+        }
+    },
+    {
+        "category": "dining_experiences",
+        "id": 7,
+        "poiName": "METAL HANDS(雍和宫店)",
+        "lng": 116.412315,
+        "lat": 39.94848,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "Metal Hands咖啡（五道营店）",
+            "description": "胡同里的精品咖啡，文艺氛围浓厚，涉外游客聚集地，英文服务流畅",
+            "address": "东城区五道营胡同61号",
+            "opening_hours": "09:00-19:00",
+            "pricing": "人均45元，招牌拿铁38元，手冲咖啡48-68元/杯",
+            "directions": "地铁2号线雍和宫站D口出，步行300米；公交13、684路五道营胡同站下车，步行2分钟"
+        },
+        "en": {
+            "name": "Metal Hands Coffee (Wudaoying Branch)",
+            "description": "A boutique hutong café with an artsy vibe, popular among international visitors; smooth English service",
+            "address": "No. 61 Wudaoying Hutong, Dongcheng District",
+            "opening_hours": "09:00–19:00",
+            "pricing": "Around RMB 45 per person; signature latte RMB 38; pour-over coffee RMB 48-68 per cup",
+            "directions": "Subway Line 2 to Yonghegong (Exit D), 300 m walk; Bus 13 or 684 to Wudaoying Hutong, 2-minute walk"
+        }
+    },
+    {
+        "category": "dining_experiences",
+        "id": 8,
+        "poiName": "糖房咖啡(什刹海店)",
+        "lng": 116.394115,
+        "lat": 39.938976,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "糖房咖啡（什刹海店）",
+            "description": "什刹海全景露台咖啡，可俯瞰后海、前海风光，网红打卡地，涉外友好",
+            "address": "西城区什刹海前海北沿50号",
+            "opening_hours": "10:00-22:00（夏季延长至23:00）",
+            "pricing": "人均60元，招牌观景咖啡58元，甜品35-50元/份",
+            "directions": "地铁8号线什刹海站A口出，步行500米；公交5、635路德内甘水桥站下车，步行10分钟"
+        },
+        "en": {
+            "name": "Tangfang Café (Shichahai Branch)",
+            "description": "A rooftop café overlooking Shichahai, with sweeping views of Houhai and Qianhai; a trendy photo spot, foreigner-friendly",
+            "address": "No. 50 Qianhai Beiyan, Shichahai, Xicheng District",
+            "opening_hours": "10:00–22:00 (extended to 23:00 in summer)",
+            "pricing": "Around RMB 60 per person; signature scenic-view coffee RMB 58; desserts RMB 35-50",
+            "directions": "Subway Line 8 to Shichahai (Exit A), 500 m walk; Bus 5 or 635 to Denei Ganshuiqiao, 10-minute walk"
+        }
+    },
+    {
+        "category": "dining_experiences",
+        "id": 9,
+        "poiName": "BERRY BEANS(前门店)",
+        "lng": 116.392427,
+        "lat": 39.894396,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly"
+        ],
+        "zh_cn": {
+            "name": "BERRY BEANS咖啡（南锣鼓巷店）",
+            "description": "复古风精品咖啡，南锣鼓巷安静角落，适合独处打卡，英文标识齐全",
+            "address": "东城区南锣鼓巷141号",
+            "opening_hours": "09:30-19:30",
+            "pricing": "人均42元，招牌美式32元，复古特调48元",
+            "directions": "地铁6、8号线南锣鼓巷站E口出，步行400米；公交107、124路宝钞胡同站下车，步行5分钟"
+        },
+        "en": {
+            "name": "BERRY BEANS Coffee (Nanluoguxiang Branch)",
+            "description": "A vintage-style café tucked in a quiet corner of Nanluoguxiang, ideal for solo visits; clear English signage",
+            "address": "No. 141 Nanluoguxiang, Dongcheng District",
+            "opening_hours": "09:30–19:30",
+            "pricing": "Around RMB 42 per person; signature Americano RMB 32; house vintage-style specials RMB 48",
+            "directions": "Subway Lines 6/8 to Nanluoguxiang (Exit E), 400 m walk; Bus 107 or 124 to Baochao Hutong, 5-minute walk"
+        }
+    },
+    {
+        "category": "dining_experiences",
+        "id": 10,
+        "poiName": "茶汤李京味餐厅(鼓楼店)",
+        "lng": 116.403993,
+        "lat": 39.940706,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "茶汤李（鼓楼店）",
+            "description": "老北京传统甜饮店，茶汤、面茶、杏仁豆腐等经典甜品，涉外服务贴心",
+            "address": "西城区鼓楼东大街206号",
+            "opening_hours": "08:30-20:30",
+            "pricing": "人均25元，茶汤18元/碗，杏仁豆腐15元/份，面茶12元/碗",
+            "directions": "地铁8号线什刹海站B口出，步行700米；公交5、635路鼓楼东站下车，步行3分钟"
+        },
+        "en": {
+            "name": "Chatang Li (Gulou Branch)",
+            "description": "A traditional dessert shop serving classics like tea soup and almond tofu; attentive service for international guests",
+            "address": "No. 206 Gulou East Street, Xicheng District",
+            "opening_hours": "08:30–20:30",
+            "pricing": "Around RMB 25 per person; tea soup RMB 18 per bowl; almond tofu RMB 15; miancha RMB 12 per bowl",
+            "directions": "Subway Line 8 to Shichahai (Exit B), 700 m walk; Bus 5 or 635 to Gulou East, 3-minute walk"
+        }
+    },
+    {
+        "category": "dining_experiences",
+        "id": 11,
+        "poiName": "南门涮肉(后海店)",
+        "lng": 116.393887,
+        "lat": 39.93805,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "南门涮肉（后海店）",
+            "description": "老北京铜锅涮肉人气品牌，后海分店环境清幽，鲜切羊肉与麻酱蘸料经典",
+            "address": "西城区后海北沿23号",
+            "opening_hours": "11:00-22:00",
+            "pricing": "人均130元，鲜切元宝肉78元/份，铜锅锅底28元，麻酱蘸料10元/份",
+            "directions": "地铁8号线什刹海站A口出，步行700米；公交5、635路德内甘水桥站下车，步行10分钟"
+        },
+        "en": {
+            "name": "Nanmen Hotpot (Houhai Branch)",
+            "description": "A popular Beijing-style hotpot chain near Houhai, known for its tranquil setting, fresh-cut lamb, and signature sesame dipping sauce",
+            "address": "No. 23 Houhai Beiyan, Xicheng District",
+            "opening_hours": "11:00–22:00",
+            "pricing": "Around RMB 130 per person; premium hand-sliced lamb RMB 78; copper hotpot base RMB 28; sesame dipping sauce RMB 10",
+            "directions": "Subway Line 8 to Shichahai (Exit A), 700 m walk; Bus 5 or 635 to Denei Ganshuiqiao, 10-minute walk"
+        }
+    },
+    {
+        "category": "dining_experiences",
+        "id": 12,
+        "poiName": "胡大饭馆(簋街三店)",
+        "lng": 116.417601,
+        "lat": 39.940822,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "胡大饭馆（簋街店）",
+            "description": "簋街麻辣小龙虾代表，夜宵热门地，口味多样，涉外服务完善",
+            "address": "东城区东直门内大街233号",
+            "opening_hours": "11:00-04:00（24小时营业，夜宵时段22:00-02:00最旺）",
+            "pricing": "人均180元，麻辣小龙虾158元/斤，蒜蓉小龙虾168元/斤，配菜10-20元/份",
+            "directions": "地铁2号线东直门站D口出，步行500米；公交107、123路东直门内站下车，步行3分钟"
+        },
+        "en": {
+            "name": "Hu Da Restaurant (Guijie Branch)",
+            "description": "A go-to spot on Guijie for spicy crayfish, perfect for late-night dining with diverse flavors; international-friendly service",
+            "address": "No. 233 Dongzhimen Inner Street, Dongcheng District",
+            "opening_hours": "11:00–04:00 (open late; peak hours 22:00–02:00)",
+            "pricing": "Around RMB 180 per person; spicy crayfish RMB 158 per jin; garlic crayfish RMB 168 per jin; side dishes RMB 10-20",
+            "directions": "Subway Line 2 to Dongzhimen (Exit D), 500 m walk; Bus 107 or 123 to Dongzhimen Inner, 3-minute walk"
+        }
+    },
+    {
+        "category": "cultural_attractions",
+        "id": 13,
+        "poiName": "故宫博物院",
+        "lng": 116.397029,
+        "lat": 39.917839,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "reservation_required",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "故宫博物院",
+            "description": "世界文化遗产，明清皇宫建筑群，中国古代宫殿艺术巅峰，英文导览完善",
+            "address": "东城区景山前街4号",
+            "opening_hours": "08:30-17:00（4-10月），08:30-16:30（11-3月）；周一闭馆（法定节假日除外）",
+            "pricing": "门票60元/人（旺季），40元/人（淡季）；珍宝馆、钟表馆各10元/人",
+            "directions": "地铁1号线天安门东站C口出，步行1.2公里；公交1、2、52路天安门东站下车，步行15分钟"
+        },
+        "en": {
+            "name": "The Palace Museum (Forbidden City)",
+            "description": "A UNESCO World Heritage site and the pinnacle of imperial Chinese architecture; comprehensive English-guided tours available",
+            "address": "No. 4 Jingshan Front Street, Dongcheng District",
+            "opening_hours": "08:30–17:00 (Apr–Oct), 08:30–16:30 (Nov–Mar); closed Mondays (except public holidays)",
+            "pricing": "Admission RMB 60 in peak season / RMB 40 in low season; Treasure Gallery and Clock Gallery RMB 10 each",
+            "directions": "Subway Line 1 to Tian'anmen East (Exit C), 1.2 km walk; Bus 1, 2, or 52 to Tian'anmen East, 15-minute walk"
+        }
+    },
+    {
+        "category": "cultural_attractions",
+        "id": 14,
+        "poiName": "八达岭长城",
+        "lng": 116.016802,
+        "lat": 40.356188,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "reservation_required",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "八达岭长城",
+            "description": "明长城最具代表性段落，“不到长城非好汉”打卡地，英文标识与服务完善",
+            "address": "延庆区军都山关沟古道北口",
+            "opening_hours": "07:30-17:30（4-10月），08:00-17:00（11-3月）",
+            "pricing": "门票40元/人（淡季），45元/人（旺季）；缆车往返140元/人，单程100元/人；滑车往返100元/人",
+            "directions": "高铁：北京北站乘G8881次，25分钟直达；公交：德胜门乘877路，2小时直达；自驾：京藏高速八达岭出口"
+        },
+        "en": {
+            "name": "Badaling Great Wall",
+            "description": "The most iconic section of the Great Wall, a must-visit landmark; well-developed English signage and services",
+            "address": "North Entrance of Guangu Ancient Path, Jundu Mountains, Yanqing District",
+            "opening_hours": "07:30–17:30 (Apr–Oct), 08:00–17:00 (Nov–Mar)",
+            "pricing": "Admission RMB 40 in low season / RMB 45 in peak season; cable car RMB 140 round-trip or RMB 100 one-way; toboggan RMB 100 round-trip",
+            "directions": "High-speed train: from Beijing North Station (approx. 25 min); Bus 877 from Deshengmen (approx. 2 hrs); Driving: Jingzang Expressway, Badaling exit"
+        }
+    },
+    {
+        "category": "cultural_attractions",
+        "id": 15,
+        "poiName": "颐和园",
+        "lng": 116.275179,
+        "lat": 39.999617,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "reservation_required",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "颐和园",
+            "description": "中国最大皇家园林，“皇家园林博物馆”，湖光山色与古典建筑完美融合",
+            "address": "海淀区新建宫门路19号",
+            "opening_hours": "06:30-18:00（4-10月），07:00-17:00（11-3月）；周一不闭馆",
+            "pricing": "门票30元/人（旺季），20元/人（淡季）；联票60元/人（含园中园）",
+            "directions": "地铁4号线北宫门站D口出，步行500米；公交303、330路颐和园北宫门站下车，步行3分钟"
+        },
+        "en": {
+            "name": "Summer Palace",
+            "description": "China's largest imperial garden, often called a \"royal garden museum,\" blending lakes, hills, and classical architecture",
+            "address": "No. 19 Xinjianggongmen Road, Haidian District",
+            "opening_hours": "06:30–18:00 (Apr–Oct), 07:00–17:00 (Nov–Mar); open daily",
+            "pricing": "Admission RMB 30 in peak season / RMB 20 in low season; combo ticket RMB 60 including additional garden areas",
+            "directions": "Subway Line 4 to Beigongmen (Exit D), 500 m walk; Bus 303 or 330 to Summer Palace North Gate, 3-minute walk"
+        }
+    },
+    {
+        "category": "cultural_attractions",
+        "id": 16,
+        "poiName": "天坛公园",
+        "lng": 116.410829,
+        "lat": 39.881913,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "reservation_required",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "天坛公园",
+            "description": "明清皇家祭天建筑群，世界文化遗产，回音壁、祈年殿等景观极具特色",
+            "address": "东城区天坛路甲1号",
+            "opening_hours": "06:00-22:00（公园），08:00-17:30（景点4-10月），08:00-17:00（景点11-3月）；周一景点不开放",
+            "pricing": "门票15元/人（淡季联票），28元/人（旺季联票）；单大门票10/15元",
+            "directions": "地铁5号线天坛东门站A口出，步行300米；公交36、106、110路天坛东门站下车，步行2分钟"
+        },
+        "en": {
+            "name": "Temple of Heaven Park",
+            "description": "A UNESCO-listed imperial altar complex, famous for the Echo Wall and Hall of Prayer for Good Harvests",
+            "address": "Jia No. 1 Tiantan Road, Dongcheng District",
+            "opening_hours": "Park: 06:00–22:00; Attractions: 08:00–17:30 (Apr–Oct), 08:00–17:00 (Nov–Mar); attractions closed Mondays",
+            "pricing": "Through-ticket RMB 15 in low season / RMB 28 in peak season; main gate only RMB 10/15",
+            "directions": "Subway Line 5 to Tiantan East Gate (Exit A), 300 m walk; Bus 36, 106, or 110 to Tiantan East Gate, 2-minute walk"
+        }
+    },
+    {
+        "category": "cultural_attractions",
+        "id": 17,
+        "poiName": "雍和宫",
+        "lng": 116.417296,
+        "lat": 39.947239,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "reservation_required",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "雍和宫",
+            "description": "北京最大藏传佛教寺院，红墙金顶，香火旺盛，文化底蕴深厚",
+            "address": "东城区雍和宫大街12号",
+            "opening_hours": "09:00-17:00（4-10月），09:00-16:30（11-3月）；周一不闭馆（法定节假日除外）",
+            "pricing": "门票25元/人，香免费（每人限领一束）",
+            "directions": "地铁2号线雍和宫站F口出，步行200米；公交13、684路雍和宫站下车，步行1分钟"
+        },
+        "en": {
+            "name": "Lama Temple (Yonghe Temple)",
+            "description": "Beijing's largest Tibetan Buddhist temple, known for its red walls, golden roofs, and rich spiritual heritage",
+            "address": "No. 12 Yonghegong Street, Dongcheng District",
+            "opening_hours": "09:00–17:00 (Apr–Oct), 09:00–16:30 (Nov–Mar); open daily (except certain holidays)",
+            "pricing": "Admission RMB 25; incense is free, one bundle per visitor",
+            "directions": "Subway Line 2 to Yonghegong (Exit F), 200 m walk; Bus 13 or 684 to Yonghegong, 1-minute walk"
+        }
+    },
+    {
+        "category": "cultural_attractions",
+        "id": 18,
+        "poiName": "中国国家博物馆",
+        "lng": 116.401304,
+        "lat": 39.905374,
+        "tags": [
+            "english_friendly",
+            "reservation_required",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "中国国家博物馆",
+            "description": "中华五千年文明缩影，馆藏文物丰富，免费开放，英文讲解完善",
+            "address": "东城区东长安街16号",
+            "opening_hours": "09:00-17:00（16:00停止入馆），周一闭馆（法定节假日除外）",
+            "pricing": "免费（需预约），英文讲解器40元/台",
+            "directions": "地铁1号线天安门东站B口出，步行300米；公交1、2、52路天安门东站下车，步行5分钟"
+        },
+        "en": {
+            "name": "National Museum of China",
+            "description": "A comprehensive showcase of 5,000 years of Chinese civilization; free entry with well-developed English explanations",
+            "address": "No. 16 East Chang'an Avenue, Dongcheng District",
+            "opening_hours": "09:00–17:00 (last entry 16:00); closed Mondays (except public holidays)",
+            "pricing": "Free admission with advance reservation; English audio guide RMB 40",
+            "directions": "Subway Line 1 to Tian'anmen East (Exit B), 300 m walk; Bus 1, 2, or 52 to Tian'anmen East, 5-minute walk"
+        }
+    },
+    {
+        "category": "cultural_attractions",
+        "id": 19,
+        "poiName": "恭王府博物馆",
+        "lng": 116.386315,
+        "lat": 39.937222,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "reservation_required",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "恭王府",
+            "description": "清代规模最大王府，“一座恭王府，半部清代史”，园林与建筑兼具",
+            "address": "西城区前海西街17号",
+            "opening_hours": "08:30-17:00（4-10月），08:30-16:30（11-3月）；周一闭馆（法定节假日除外）",
+            "pricing": "门票40元/人（旺季），30元/人（淡季）；英文讲解100元/5人",
+            "directions": "地铁8号线什刹海站C口出，步行600米；公交3、13、42路北海北门站下车，步行5分钟"
+        },
+        "en": {
+            "name": "Prince Gong’s Mansion",
+            "description": "The largest princely mansion of the Qing Dynasty, offering both grand architecture and refined gardens",
+            "address": "No. 17 Qianhai West Street, Xicheng District",
+            "opening_hours": "08:30–17:00 (Apr–Oct), 08:30–16:30 (Nov–Mar); closed Mondays (except public holidays)",
+            "pricing": "Admission RMB 40 in peak season / RMB 30 in low season; English guided tour RMB 100 for up to 5 people",
+            "directions": "Subway Line 8 to Shichahai (Exit C), 600 m walk; Bus 3, 13, or 42 to Beihai North Gate, 5-minute walk"
+        }
+    },
+    {
+        "category": "cultural_attractions",
+        "id": 20,
+        "poiName": "798·751园区",
+        "lng": 116.494784,
+        "lat": 39.985063,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "798艺术区",
+            "description": "废弃工厂改造的当代艺术区，画廊、文创店、雕塑遍布，国际氛围浓厚",
+            "address": "朝阳区酒仙桥路4号",
+            "opening_hours": "10:00-19:00（大部分），部分展览延长至21:00；周一部分画廊闭店",
+            "pricing": "艺术区免费，部分特展50-150元/人",
+            "directions": "地铁14号线望京南站A口出，打车10分钟；公交401、402、405路大山子路口南站下车，步行5分钟"
+        },
+        "en": {
+            "name": "798 Art District",
+            "description": "A former industrial zone turned contemporary art district, filled with galleries, installations, and a global creative vibe",
+            "address": "No. 4 Jiuxianqiao Road, Chaoyang District",
+            "opening_hours": "10:00–19:00 (most venues); some exhibitions until 21:00; some galleries closed Mondays",
+            "pricing": "Entry to the art district is free; selected special exhibitions cost RMB 50-150",
+            "directions": "Subway Line 14 to Wangjing South (Exit A), 10-minute taxi ride; Bus 401/402/405 to Dashanzi South, 5-minute walk"
+        }
+    },
+    {
+        "category": "cultural_attractions",
+        "id": 21,
+        "poiName": "史家胡同博物馆",
+        "lng": 116.422412,
+        "lat": 39.918163,
+        "tags": [
+            "english_friendly",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "史家胡同博物馆",
+            "description": "藏于胡同中的微型博物馆，展示老北京胡同生活，“老北京声音博物馆”特色鲜明",
+            "address": "东城区史家胡同24号",
+            "opening_hours": "09:30-16:30（周二至周日），周一闭馆",
+            "pricing": "免费（需现场登记）",
+            "directions": "地铁5号线东单站D口出，步行800米；公交106、116、684路史家胡同站下车，步行2分钟"
+        },
+        "en": {
+            "name": "Shijia Hutong Museum",
+            "description": "A hidden hutong museum showcasing old Beijing life, with a unique \"Sounds of Old Beijing\" experience",
+            "address": "No. 24 Shijia Hutong, Dongcheng District",
+            "opening_hours": "09:30–16:30 (Tue–Sun); closed Mondays",
+            "pricing": "Free admission; on-site registration required",
+            "directions": "Subway Line 5 to Dongdan (Exit D), 800 m walk; Bus 106/116/684 to Shijia Hutong, 2-minute walk"
+        }
+    },
+    {
+        "category": "cultural_attractions",
+        "id": 22,
+        "poiName": "老舍茶馆(前门店)",
+        "lng": 116.393316,
+        "lat": 39.899703,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "reservation_required",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "老舍茶馆",
+            "description": "体验老北京传统艺术的绝佳场所，京剧、相声、变脸等表演，可边品茶边观赏",
+            "address": "西城区前门西大街正阳市场三号楼",
+            "opening_hours": "10:00-22:00，表演时间19:15-21:00（需提前预约）",
+            "pricing": "茶位费80-280元/人（含茶水、小吃），VIP座位380元/人；表演无额外收费",
+            "directions": "地铁2号线前门站B口出，步行500米；公交5、17、20路前门站下车，步行3分钟"
+        },
+        "en": {
+            "name": "Laoshe Teahouse",
+            "description": "A perfect venue to experience traditional arts like Peking Opera and crosstalk, enjoyed alongside tea",
+            "address": "Building 3, Zhengyang Market, Qianmen West Street, Xicheng District",
+            "opening_hours": "10:00–22:00; performances 19:15–21:00 (reservation required)",
+            "pricing": "Tea seating starts at RMB 80-280 per person, including tea and snacks; VIP seating RMB 380; performances included",
+            "directions": "Subway Line 2 to Qianmen (Exit B), 500 m walk; Bus 5, 17, or 20 to Qianmen, 3-minute walk"
+        }
+    },
+    {
+        "category": "cultural_attractions",
+        "id": 23,
+        "poiName": "法海寺森林公园",
+        "lng": 116.16003,
+        "lat": 39.940625,
+        "tags": [
+            "english_friendly",
+            "reservation_required",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "法海寺",
+            "description": "明代壁画艺术瑰宝，大雄宝殿壁画精美绝伦，被誉为“明代壁画之最”",
+            "address": "石景山区翠微山南麓模式口大街48号",
+            "opening_hours": "09:00-16:30（周二至周日），周一闭馆；壁画观赏分时段预约",
+            "pricing": "门票40元/人，壁画特展100元/人（含专业讲解）",
+            "directions": "地铁6号线金安桥站C口出，打车10分钟；公交336、389、597路模式口西里站下车，步行10分钟"
+        },
+        "en": {
+            "name": "Fahai Temple",
+            "description": "A masterpiece of Ming Dynasty mural art, renowned for its exquisite temple frescoes",
+            "address": "No. 48 Moshikou Street, South Foot of Cuiwei Mountain, Shijingshan District",
+            "opening_hours": "09:00–16:30 (Tue–Sun); closed Mondays; mural viewing by timed reservation",
+            "pricing": "Admission RMB 40; mural special exhibition RMB 100, including professional commentary",
+            "directions": "Subway Line 6 to Jin'anqiao (Exit C), 10-minute taxi; Bus 336/389/597 to Moshikou West, 10-minute walk"
+        }
+    },
+    {
+        "category": "cultural_attractions",
+        "id": 24,
+        "poiName": "北京天文馆",
+        "lng": 116.336833,
+        "lat": 39.937306,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "北京天文馆",
+            "description": "宇宙科普胜地，球幕电影、天文展品丰富，适合亲子与科普爱好者，英文服务完善",
+            "address": "西城区西直门外大街138号",
+            "opening_hours": "09:30-16:30（周二至周日），周一闭馆（法定节假日除外）",
+            "pricing": "门票10元/人，球幕电影45元/人，宇宙剧场60元/人",
+            "directions": "地铁4号线动物园站D口出，步行300米；公交105、111、332路动物园站下车，步行2分钟"
+        },
+        "en": {
+            "name": "Beijing Planetarium",
+            "description": "A top destination for space and science enthusiasts, featuring dome films and interactive exhibits; family-friendly with English support",
+            "address": "No. 138 Xizhimen Outer Street, Xicheng District",
+            "opening_hours": "09:30–16:30 (Tue–Sun); closed Mondays (except public holidays)",
+            "pricing": "Admission RMB 10; dome film RMB 45; Space Theater RMB 60",
+            "directions": "Subway Line 4 to Beijing Zoo (Exit D), 300 m walk; Bus 105/111/332 to Zoo stop, 2-minute walk"
+        }
+    },
+    {
+        "category": "cultural_attractions",
+        "id": 25,
+        "poiName": "中国美术馆",
+        "lng": 116.408939,
+        "lat": 39.925255,
+        "tags": [
+            "english_friendly",
+            "reservation_required",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "中国美术馆",
+            "description": "国家级艺术殿堂，集中展示近现代中国画、油画、雕塑等精品，免费开放且英文标识完善",
+            "address": "东城区五四大街1号",
+            "opening_hours": "09:00-17:00（16:00停止入馆），周一闭馆（法定节假日除外）",
+            "pricing": "免费（需实名预约），特展单独购票（50-100元/人）",
+            "directions": "地铁8号线中国美术馆站C口出，步行200米；公交101、103、109路沙滩路口西站下车，步行1分钟"
+        },
+        "en": {
+            "name": "National Art Museum of China",
+            "description": "A national-level art museum showcasing modern and contemporary Chinese works; free entry with clear English signage",
+            "address": "No. 1 Wusi Street, Dongcheng District",
+            "opening_hours": "09:00–17:00 (last entry 16:00); closed Mondays (except public holidays)",
+            "pricing": "Free admission with real-name reservation; special exhibitions are ticketed separately at RMB 50-100",
+            "directions": "Subway Line 8 to National Art Museum (Exit C), 200 m walk; Bus 101/103/109 to Shatan West, 1-minute walk"
+        }
+    },
+    {
+        "category": "cultural_attractions",
+        "id": 26,
+        "poiName": "司马台长城旅游区",
+        "lng": 117.287475,
+        "lat": 40.658241,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "reservation_required",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "古北水镇（含司马台长城）",
+            "description": "北方水乡与长城结合的度假胜地，夜游司马台长城、赏水乡灯笼，国际服务成熟",
+            "address": "密云区古北口镇司马台村",
+            "opening_hours": "09:00-22:30（长城夜游19:00-21:00）",
+            "pricing": "门票140元/人，长城夜游联票190元/人，住宿800-2000元/晚",
+            "directions": "自驾：京承高速司马台出口，2小时；公交：东直门980路转专线；旅游专线：东直门直达，1.5小时"
+        },
+        "en": {
+            "name": "Gubei Water Town (including Simatai Great Wall)",
+            "description": "A unique resort combining a northern water town with the Great Wall; night tours and lantern-lit scenery with strong international services",
+            "address": "Simatai Village, Gubeikou Town, Miyun District",
+            "opening_hours": "09:00–22:30 (night tour 19:00–21:00)",
+            "pricing": "Admission RMB 140; night tour combo ticket RMB 190; accommodation ranges from RMB 800-2000 per night",
+            "directions": "Driving: Jingcheng Expressway, Simatai exit (~2 hrs); Bus 980 from Dongzhimen + shuttle; Direct tourist line from Dongzhimen (~1.5 hrs)"
+        }
+    },
+    {
+        "category": "cultural_attractions",
+        "id": 27,
+        "poiName": "北京环球度假区",
+        "lng": 116.681212,
+        "lat": 39.852698,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "reservation_required",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "北京环球度假区",
+            "description": "国际顶级主题乐园，哈利波特、变形金刚等IP全覆盖，英文服务与标识标准化",
+            "address": "通州区京哈高速与东六环路交汇处",
+            "opening_hours": "10:00-21:00（节假日延长至22:00）",
+            "pricing": "标准票528-748元/人，快速通玩卡400-1200元/人，餐饮人均80-150元",
+            "directions": "地铁7号线/八通线环球度假区站B口出，步行5分钟；公交T116路、589路环球度假区站下车"
+        },
+        "en": {
+            "name": "Universal Beijing Resort",
+            "description": "A world-class theme park featuring global IPs like Harry Potter and Transformers; fully standardized English services",
+            "address": "Intersection of Jingha Expressway and East 6th Ring Road, Tongzhou District",
+            "opening_hours": "10:00–21:00 (extended to 22:00 on holidays)",
+            "pricing": "Standard tickets RMB 528-748 per person; Express Pass RMB 400-1200; dining averages RMB 80-150 per person",
+            "directions": "Subway Line 7/Batong Line to Universal Resort (Exit B), 5-minute walk; Bus T116 or 589 to Universal Resort"
+        }
+    },
+    {
+        "category": "neighborhood_walks",
+        "id": 28,
+        "poiName": "南锣鼓巷",
+        "lng": 116.402394,
+        "lat": 39.937182,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "南锣鼓巷 + 雨儿胡同",
+            "description": "北京最知名文艺胡同集群，主街热闹、支线安静，文创小店与传统民居交融",
+            "address": "东城区南锣鼓巷（南起地安门东大街，北至鼓楼东大街）",
+            "opening_hours": "街区全天开放，店铺10:00-22:00",
+            "pricing": "免费游览，消费人均50-100元（小吃、咖啡、文创）",
+            "directions": "地铁6/8号线南锣鼓巷站E口出，步行300米；公交107、124路宝钞胡同站下车，步行5分钟"
+        },
+        "en": {
+            "name": "Nanluoguxiang & Yuer Hutong",
+            "description": "Beijing's most iconic artistic hutong area, blending lively streets with quiet alleys and creative shops",
+            "address": "Nanluoguxiang (from Di'anmen East Street to Gulou East Street), Dongcheng District",
+            "opening_hours": "Area open 24/7; shops 10:00–22:00",
+            "pricing": "Free to explore; typical spending RMB 50-100 per person on snacks, coffee, and souvenirs",
+            "directions": "Subway Lines 6/8 to Nanluoguxiang (Exit E), 300 m walk; Bus 107/124 to Baochao Hutong, 5-minute walk"
+        }
+    },
+    {
+        "category": "neighborhood_walks",
+        "id": 29,
+        "poiName": "烟袋斜街",
+        "lng": 116.394748,
+        "lat": 39.939329,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "什刹海 + 烟袋斜街",
+            "description": "“北方水乡”核心区，前海、后海环湖漫步，烟袋斜街连接传统商铺与现代酒吧",
+            "address": "西城区什刹海地区（前海、后海、西海）",
+            "opening_hours": "街区全天开放，酒吧17:00-24:00，游船9:00-18:00（夏季）",
+            "pricing": "免费游览，游船150-200元/小时（6人船），酒吧消费人均100-200元",
+            "directions": "地铁8号线什刹海站A口出，步行500米；公交5、635路德内甘水桥站下车，步行8分钟"
+        },
+        "en": {
+            "name": "Shichahai & Yandai Xiejie",
+            "description": "The heart of Beijing's \"northern water town,\" ideal for lakeside walks, linking historic shops and modern bars",
+            "address": "Shichahai Area (Qianhai, Houhai, Xihai), Xicheng District",
+            "opening_hours": "Area open 24/7; bars 17:00–24:00; boat rides 09:00–18:00 (summer)",
+            "pricing": "Free to explore; boat rides RMB 150-200 per hour for a 6-person boat; bars average RMB 100-200 per person",
+            "directions": "Subway Line 8 to Shichahai (Exit A), 500 m walk; Bus 5/635 to Denei Ganshuiqiao, 8-minute walk"
+        }
+    },
+    {
+        "category": "neighborhood_walks",
+        "id": 30,
+        "poiName": "五道营胡同",
+        "lng": 116.411707,
+        "lat": 39.947899,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "五道营胡同",
+            "description": "比南锣鼓巷更安静的文艺胡同，聚集精品咖啡、手作店、小画廊，文艺氛围浓厚",
+            "address": "东城区五道营胡同（南起安定门东大街，北至雍和宫大街）",
+            "opening_hours": "10:00-22:00（店铺），街区全天开放",
+            "pricing": "免费游览，消费人均40-80元（咖啡、手作）",
+            "directions": "地铁2号线雍和宫站D口出，步行400米；公交13、684路五道营胡同站下车，步行2分钟"
+        },
+        "en": {
+            "name": "Wudaoying Hutong",
+            "description": "A quieter, more refined hutong alternative, filled with cafés, craft shops, and small galleries",
+            "address": "Wudaoying Hutong (from Andingmen East Street to Yonghegong Street), Dongcheng District",
+            "opening_hours": "Shops 10:00–22:00; area open 24/7",
+            "pricing": "Free to explore; typical spending RMB 40-80 per person on coffee and handmade goods",
+            "directions": "Subway Line 2 to Yonghegong (Exit D), 400 m walk; Bus 13/684 to Wudaoying Hutong, 2-minute walk"
+        }
+    },
+    {
+        "category": "neighborhood_walks",
+        "id": 31,
+        "poiName": "前门大栅栏胡同",
+        "lng": 116.396985,
+        "lat": 39.896071,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "前门大街 + 大栅栏",
+            "description": "百年皇家商街，老字号云集（瑞蚨祥、内联升），复古牌楼与京味建筑适合打卡",
+            "address": "东城区前门大街（南起珠市口东大街，北至正阳门）",
+            "opening_hours": "街区全天开放，店铺10:00-21:00",
+            "pricing": "免费游览，老字号消费人均100-300元，纪念品10-100元",
+            "directions": "地铁2号线前门站C口出，步行200米；公交5、17、20路前门站下车，步行1分钟"
+        },
+        "en": {
+            "name": "Qianmen Street & Dashilan",
+            "description": "A historic shopping street lined with time-honored brands, featuring traditional architecture and iconic gates",
+            "address": "Qianmen Street (from Zhushikou East Street to Zhengyang Gate), Dongcheng District",
+            "opening_hours": "Area open 24/7; shops 10:00–21:00",
+            "pricing": "Free to explore; spending at heritage brands averages RMB 100-300 per person; souvenirs RMB 10-100",
+            "directions": "Subway Line 2 to Qianmen (Exit C), 200 m walk; Bus 5/17/20 to Qianmen, 1-minute walk"
+        }
+    },
+    {
+        "category": "neighborhood_walks",
+        "id": 32,
+        "poiName": "三里屯太古里",
+        "lng": 116.45399,
+        "lat": 39.934871,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "三里屯太古里",
+            "description": "北京最国际化时尚商圈，潮牌、西餐、酒吧集中，外国人密度最高，涉外服务完善",
+            "address": "朝阳区三里屯路19号",
+            "opening_hours": "10:00-22:00（商铺），酒吧18:00-24:00",
+            "pricing": "免费游览，潮牌消费500-2000元，西餐人均150-300元，酒吧人均200-500元",
+            "directions": "地铁10号线团结湖站A口出，步行800米；公交113、115、431路三里屯站下车，步行3分钟"
+        },
+        "en": {
+            "name": "Taikoo Li Sanlitun",
+            "description": "Beijing's most international shopping and nightlife district, packed with global brands, dining, and bars",
+            "address": "No. 19 Sanlitun Road, Chaoyang District",
+            "opening_hours": "Shops 10:00–22:00; bars 18:00–24:00",
+            "pricing": "Free to explore; designer and streetwear shopping typically ranges from RMB 500-2000; Western dining averages RMB 150-300 per person; bars RMB 200-500 per person",
+            "directions": "Subway Line 10 to Tuanjiehu (Exit A), 800 m walk; Bus 113/115/431 to Sanlitun, 3-minute walk"
+        }
+    },
+    {
+        "category": "neighborhood_walks",
+        "id": 33,
+        "poiName": "SOLANA蓝色港湾",
+        "lng": 116.475944,
+        "lat": 39.949336,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "蓝色港湾",
+            "description": "欧式水岸商业街区，灯光夜景绝美，适合休闲散步、亲子互动与轻夜生活",
+            "address": "朝阳区朝阳公园路6号",
+            "opening_hours": "10:00-22:00（商铺），夜景灯光18:00-23:00",
+            "pricing": "免费游览，餐饮人均80-150元，亲子项目50-100元/人",
+            "directions": "地铁14号线枣营站A口出，步行1公里；公交419、682、851路枣营路北口站下车，步行5分钟"
+        },
+        "en": {
+            "name": "Solana Lifestyle Shopping Park",
+            "description": "A European-style waterfront district with stunning night views, perfect for strolls and relaxed evenings",
+            "address": "No. 6 Chaoyang Park Road, Chaoyang District",
+            "opening_hours": "Shops 10:00–22:00; night lights 18:00–23:00",
+            "pricing": "Free to explore; dining averages RMB 80-150 per person; family activities RMB 50-100 per person",
+            "directions": "Subway Line 14 to Zaoying (Exit A), 1 km walk; Bus 419/682/851 to Zaoying North, 5-minute walk"
+        }
+    },
+    {
+        "category": "neighborhood_walks",
+        "id": 34,
+        "poiName": "模式口大街",
+        "lng": 116.16194,
+        "lat": 39.935091,
+        "tags": [
+            "english_friendly",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "模式口大街",
+            "description": "京西古道改造的文化街区，结合古街风貌与现代文创，法海寺、承恩寺等古迹散落其中",
+            "address": "石景山区模式口大街（东起金顶街，西至模式口西里）",
+            "opening_hours": "街区全天开放，店铺10:00-19:00",
+            "pricing": "免费游览，法海寺门票40元/人，文创消费30-100元",
+            "directions": "地铁6号线金安桥站C口出，打车10分钟；公交336、389、597路模式口西里站下车，步行5分钟"
+        },
+        "en": {
+            "name": "Moshikou Street",
+            "description": "A revitalized historic trail turned cultural district, blending heritage with modern creativity",
+            "address": "Moshikou Street (from Jinding Street to Moshikou West Lane), Shijingshan District",
+            "opening_hours": "Area open 24/7; shops 10:00–19:00",
+            "pricing": "Free to explore; Fahai Temple admission RMB 40; cultural and creative products RMB 30-100",
+            "directions": "Subway Line 6 to Jin'anqiao (Exit C), 10-minute taxi; Bus 336/389/597 to Moshikou West, 5-minute walk"
+        }
+    },
+    {
+        "category": "neighborhood_walks",
+        "id": 35,
+        "poiName": "杨梅竹斜街",
+        "lng": 116.390844,
+        "lat": 39.89528,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly"
+        ],
+        "zh_cn": {
+            "name": "杨梅竹斜街",
+            "description": "前门附近的安静文艺胡同，独立书店、小众咖啡馆、手作工坊聚集，适合独处打卡",
+            "address": "西城区杨梅竹斜街（南起琉璃厂东街，北至前门西大街）",
+            "opening_hours": "10:00-20:00（店铺），街区全天开放",
+            "pricing": "免费游览，咖啡人均35-50元，手作人均50-100元",
+            "directions": "地铁2号线前门站B口出，步行800米；公交5、20路大栅栏站下车，步行3分钟"
+        },
+        "en": {
+            "name": "Yangmeizhu Xiejie",
+            "description": "A tranquil hutong near Qianmen, home to indie bookstores, niche cafés, and artisan studios",
+            "address": "Yangmeizhu Xiejie (from Liulichang East Street to Qianmen West Street), Xicheng District",
+            "opening_hours": "Shops 10:00–20:00; area open 24/7",
+            "pricing": "Free to explore; coffee averages RMB 35-50 per person; craft activities RMB 50-100 per person",
+            "directions": "Subway Line 2 to Qianmen (Exit B), 800 m walk; Bus 5/20 to Dashilan, 3-minute walk"
+        }
+    },
+    {
+        "category": "neighborhood_walks",
+        "id": 36,
+        "poiName": "亮马河国际风情水岸",
+        "lng": 116.492046,
+        "lat": 39.927414,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "亮马河国际风情水岸",
+            "description": "北京国际化休闲带，夜景灯光、游船、酒吧集群，外籍人士聚集地",
+            "address": "朝阳区亮马河沿岸（东起东四环，西至燕莎桥）",
+            "opening_hours": "全天开放，游船10:00-21:00，酒吧18:00-24:00",
+            "pricing": "免费游览，游船180-300元/人（夜游），酒吧人均150-400元",
+            "directions": "地铁10号线亮马桥站C口出，步行500米；公交413、418、675路安家楼站下车，步行3分钟"
+        },
+        "en": {
+            "name": "Liangma River International Waterfront",
+            "description": "A vibrant international leisure zone with night cruises, bars, and scenic lighting",
+            "address": "Liangma River (from East 4th Ring Road to Yansha Bridge), Chaoyang District",
+            "opening_hours": "Open 24/7; boat rides 10:00–21:00; bars 18:00–24:00",
+            "pricing": "Free to explore; night boat rides RMB 180-300 per person; bars average RMB 150-400 per person",
+            "directions": "Subway Line 10 to Liangmaqiao (Exit C), 500 m walk; Bus 413/418/675 to Anjialou, 3-minute walk"
+        }
+    },
+    {
+        "category": "neighborhood_walks",
+        "id": 37,
+        "poiName": "首钢园",
+        "lng": 116.155232,
+        "lat": 39.915415,
+        "tags": [
+            "english_friendly",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "首钢园",
+            "description": "工业风改造的网红园区，冬奥滑雪大跳台、巨型钢铁遗迹，适合拍照与亲子游",
+            "address": "石景山区石景山路68号",
+            "opening_hours": "09:00-18:00（园区），部分展馆10:00-17:00",
+            "pricing": "免费入园，部分展馆30元/人，滑雪大跳台参观50元/人",
+            "directions": "地铁11号线首钢园站B口出，步行300米；公交325、370、941路首钢小西门站下车，步行10分钟"
+        },
+        "en": {
+            "name": "Shougang Park",
+            "description": "A trendy industrial-style park featuring Olympic ski jumps and massive steel structures",
+            "address": "No. 68 Shijingshan Road, Shijingshan District",
+            "opening_hours": "Park 09:00–18:00; some venues 10:00–17:00",
+            "pricing": "Free park entry; selected venues charge RMB 30; ski jump visit RMB 50",
+            "directions": "Subway Line 11 to Shougang Park (Exit B), 300 m walk; Bus 325/370/941 to Shougang West Gate, 10-minute walk"
+        }
+    },
+    {
+        "category": "markets_nightlife",
+        "id": 38,
+        "poiName": "潘家园旧货市场",
+        "lng": 116.458263,
+        "lat": 39.875426,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "潘家园旧货市场",
+            "description": "北京最大古玩旧货市场，“鬼市”文化发源地，文玩、字画、老物件应有尽有",
+            "address": "朝阳区华威里18号",
+            "opening_hours": "09:00-18:00（常规），04:00-08:00（周末鬼市）",
+            "pricing": "免费入场，商品价格50-10000元不等（可砍价）",
+            "directions": "地铁10号线潘家园站C口出，步行300米；公交34、674路潘家园桥西站下车，步行2分钟"
+        },
+        "en": {
+            "name": "Panjiayuan Antique Market",
+            "description": "Beijing's largest antique market and birthplace of the \"ghost market,\" offering collectibles and curios",
+            "address": "No. 18 Huawei Li, Chaoyang District",
+            "opening_hours": "09:00–18:00 (regular); 04:00–08:00 (weekend flea market)",
+            "pricing": "Free entry; merchandise ranges from RMB 50 to 10,000, and bargaining is common",
+            "directions": "Subway Line 10 to Panjiayuan (Exit C), 300 m walk; Bus 34/674 to Panjiayuan Bridge West, 2-minute walk"
+        }
+    },
+    {
+        "category": "markets_nightlife",
+        "id": 39,
+        "poiName": "三里屯酒吧一条街",
+        "lng": 116.455554,
+        "lat": 39.93479,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "三里屯酒吧街",
+            "description": "北京最知名的酒吧集群，清吧、夜店、Livehouse全覆盖，外籍人士夜生活核心区",
+            "address": "朝阳区三里屯路",
+            "opening_hours": "18:00-04:00（部分夜店24小时）",
+            "pricing": "啤酒50-100元/瓶，鸡尾酒80-150元/杯，Livehouse门票100-300元/人",
+            "directions": "地铁10号线团结湖站A口出，步行800米；公交113、115路三里屯站下车，步行3分钟"
+        },
+        "en": {
+            "name": "Sanlitun Bar Street",
+            "description": "The city's most famous bar district, covering everything from lounges to live music venues",
+            "address": "Sanlitun Road, Chaoyang District",
+            "opening_hours": "18:00–04:00 (some venues open 24 hours)",
+            "pricing": "Beer RMB 50-100 per bottle; cocktails RMB 80-150; live music venue tickets RMB 100-300",
+            "directions": "Subway Line 10 to Tuanjiehu (Exit A), 800 m walk; Bus 113/115 to Sanlitun, 5-minute walk"
+        }
+    },
+    {
+        "category": "markets_nightlife",
+        "id": 40,
+        "poiName": "簋街",
+        "lng": 116.424768,
+        "lat": 39.941746,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "簋街（东直门）",
+            "description": "北京“夜宵第一街”，麻辣小龙虾、羊蝎子、卤煮等特色美食集中，夜生活热门地",
+            "address": "东城区东直门内大街",
+            "opening_hours": "11:00-04:00（夜宵时段22:00-02:00最旺）",
+            "pricing": "麻辣小龙虾158-188元/斤，羊蝎子128-168元/锅，人均150-250元",
+            "directions": "地铁2号线东直门站D口出，步行500米；公交107、123路东直门内站下车，步行3分钟"
+        },
+        "en": {
+            "name": "Guijie Food Street (Dongzhimen)",
+            "description": "Beijing's ultimate late-night food street, famous for crayfish, lamb spine hotpot, and local snacks",
+            "address": "Dongzhimen Inner Street, Dongcheng District",
+            "opening_hours": "11:00–04:00 (peak late-night hours 22:00–02:00)",
+            "pricing": "Spicy crayfish RMB 158-188 per jin; lamb spine hotpot RMB 128-168 per pot; average spend RMB 150-250 per person",
+            "directions": "Subway Line 2 to Dongzhimen (Exit D), 500 m walk; Bus 107/123 to Dongzhimen Inner, 3-minute walk"
+        }
+    },
+    {
+        "category": "markets_nightlife",
+        "id": 41,
+        "poiName": "SOLANA蓝色港湾",
+        "lng": 116.475944,
+        "lat": 39.949336,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "蓝色港湾灯光节（冬季限定）",
+            "description": "冬季限定网红灯光盛宴，欧式建筑搭配梦幻灯光，适合拍照与亲子互动",
+            "address": "朝阳区朝阳公园路6号（蓝色港湾内）",
+            "opening_hours": "17:00-23:00（每年11月-次年2月，以官方通知为准）",
+            "pricing": "免费入场，部分互动灯光项目30-50元/人",
+            "directions": "地铁14号线枣营站A口出，步行1公里；公交419、682路枣营路北口站下车，步行5分钟"
+        },
+        "en": {
+            "name": "Solana Light Festival (Winter Only)",
+            "description": "A seasonal winter light festival with European-style architecture and dazzling displays",
+            "address": "No. 6 Chaoyang Park Road (inside Solana), Chaoyang District",
+            "opening_hours": "17:00–23:00 (Nov–Feb; subject to official notice)",
+            "pricing": "Free entry; selected interactive light attractions cost RMB 30-50 per person",
+            "directions": "Subway Line 14 to Zaoying (Exit A), 1 km walk; Bus 419/682 to Zaoying North, 5-minute walk"
+        }
+    },
+    {
+        "category": "markets_nightlife",
+        "id": 42,
+        "poiName": "红桥市场",
+        "lng": 116.420577,
+        "lat": 39.886248,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "红桥市场",
+            "description": "北京老牌涉外批发市场，珍珠、丝绸、工艺品、纪念品齐全，英文服务成熟",
+            "address": "东城区天坛东路46号",
+            "opening_hours": "09:00-19:00",
+            "pricing": "珍珠项链100-5000元，丝绸制品50-300元，纪念品10-50元",
+            "directions": "地铁5号线天坛东门站B口出，步行400米；公交36、106、110路红桥市场站下车，步行1分钟"
+        },
+        "en": {
+            "name": "Hongqiao Market (Pearl Market)",
+            "description": "A long-established international market offering pearls, silk, crafts, and souvenirs",
+            "address": "No. 46 Tiantan East Road, Dongcheng District",
+            "opening_hours": "09:00–19:00",
+            "pricing": "Pearl necklaces range from RMB 100-5000; silk products RMB 50-300; souvenirs RMB 10-50",
+            "directions": "Subway Line 5 to Tiantan East Gate (Exit B), 400 m walk; Bus 36/106/110 to Hongqiao Market, 1-minute walk"
+        }
+    },
+    {
+        "category": "markets_nightlife",
+        "id": 43,
+        "poiName": "秀水街",
+        "lng": 116.438827,
+        "lat": 39.910205,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "秀水街",
+            "description": "北京最知名的涉外购物街，丝绸、定制服装、箱包、文创产品齐全，英文服务一流",
+            "address": "朝阳区秀水东街8号",
+            "opening_hours": "09:30-21:00",
+            "pricing": "定制西装500-2000元，丝绸衬衫100-300元，箱包200-1000元",
+            "directions": "地铁1号线永安里站D口出，步行300米；公交1、2、52路永安里路口西站下车，步行2分钟"
+        },
+        "en": {
+            "name": "Silk Street (Xiushui Market)",
+            "description": "Beijing's best-known shopping street for international visitors, with silk, tailoring, and gifts",
+            "address": "No. 8 Xiushui East Street, Chaoyang District",
+            "opening_hours": "09:30–21:00",
+            "pricing": "Custom suits RMB 500-2000; silk shirts RMB 100-300; bags RMB 200-1000",
+            "directions": "Subway Line 1 to Yonganli (Exit D), 300 m walk; Bus 1/2/52 to Yonganli West, 2-minute walk"
+        }
+    },
+    {
+        "category": "markets_nightlife",
+        "id": 44,
+        "poiName": "北京侨福芳草地购物中心",
+        "lng": 116.448834,
+        "lat": 39.919577,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "侨福芳草地",
+            "description": "艺术与商业结合的购物中心，遍布雕塑、画廊，文创、餐饮、购物一站式体验",
+            "address": "朝阳区东大桥路9号",
+            "opening_hours": "10:00-22:00",
+            "pricing": "餐饮人均100-200元，文创产品50-300元，艺术展览免费-100元",
+            "directions": "地铁6号线东大桥站A口出，步行300米；公交109、112、140路东大桥路口东站下车，步行2分钟"
+        },
+        "en": {
+            "name": "Parkview Green",
+            "description": "A shopping mall blending art and commerce, featuring galleries, sculptures, and lifestyle experiences",
+            "address": "No. 9 Dongdaqiao Road, Chaoyang District",
+            "opening_hours": "10:00–22:00",
+            "pricing": "Dining averages RMB 100-200 per person; cultural and creative products RMB 50-300; art exhibitions free to RMB 100",
+            "directions": "Subway Line 6 to Dongdaqiao (Exit A), 300 m walk; Bus 109/112/140 to Dongdaqiao East, 2-minute walk"
+        }
+    },
+    {
+        "category": "markets_nightlife",
+        "id": 45,
+        "poiName": "北京奥林匹克公园",
+        "lng": 116.393096,
+        "lat": 40.009926,
+        "tags": [
+            "english_friendly",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "奥林匹克公园（夜景）",
+            "description": "奥运遗产公园，鸟巢、水立方夜景灯光璀璨，音乐喷泉与灯光秀震撼人心",
+            "address": "朝阳区奥林匹克公园",
+            "opening_hours": "全天开放，夜景灯光19:00-22:00，音乐喷泉20:00-20:30（夏季）",
+            "pricing": "免费入园，鸟巢内部参观50元/人，水立方内部参观30元/人",
+            "directions": "地铁8/15号线奥林匹克公园站D口出，步行500米；公交82、419、538路奥林匹克公园站下车，步行3分钟"
+        },
+        "en": {
+            "name": "Olympic Park (Night View)",
+            "description": "An Olympic legacy park with dazzling night views of iconic venues and spectacular light shows",
+            "address": "Olympic Park, Chaoyang District",
+            "opening_hours": "Open 24/7; night lighting 19:00–22:00; music fountain 20:00–20:30 (summer)",
+            "pricing": "Free park entry; Bird's Nest interior tour RMB 50; Water Cube interior tour RMB 30",
+            "directions": "Subway Lines 8/15 to Olympic Park (Exit D), 500 m walk; Bus 82/419/538 to Olympic Park, 3-minute walk"
+        }
+    },
+    {
+        "category": "lifestyle_services",
+        "id": 46,
+        "poiName": "同仁堂知嘛健康(零号店)",
+        "lng": 116.293701,
+        "lat": 39.668531,
+        "tags": [
+            "hands_on_experience_available",
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "同仁堂知嘛健康（零号店）",
+            "description": "传统中药品牌跨界体验店，可体验草本咖啡、药茶DIY，了解中医文化",
+            "address": "东城区前门大街11号",
+            "opening_hours": "09:00-21:00",
+            "pricing": "草本咖啡38-58元/杯，药茶DIY68-128元/人，中药文创50-200元",
+            "directions": "地铁2号线前门站C口出，步行300米；公交5、17、20路前门站下车，步行2分钟"
+        },
+        "en": {
+            "name": "Tongrentang Zhima Health (Flagship Store)",
+            "description": "A modern TCM concept store offering herbal coffee and DIY medicinal teas",
+            "address": "No. 11 Qianmen Street, Dongcheng District",
+            "opening_hours": "09:00–21:00",
+            "pricing": "Herbal coffee RMB 38-58 per cup; DIY medicinal tea experience RMB 68-128 per person; TCM-themed products RMB 50-200",
+            "directions": "Subway Line 2 to Qianmen (Exit C), 300 m walk; Bus 5/17/20 to Qianmen, 2-minute walk"
+        }
+    },
+    {
+        "category": "lifestyle_services",
+        "id": 47,
+        "poiName": "北京坊",
+        "lng": 116.396059,
+        "lat": 39.897948,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "北京坊",
+            "description": "历史建筑改造的文创商业街区，集合网红书店、精品咖啡、文创商店，传统风貌与现代休闲完美融合",
+            "address": "西城区煤市街廊房头条13号",
+            "opening_hours": "10:00-22:00（商铺），街区全天开放",
+            "pricing": "免费游览，咖啡人均40-60元，文创消费50-150元，网红书店阅读免费",
+            "directions": "地铁2号线前门站C口出，步行600米；公交5、20路大栅栏站下车，步行3分钟"
+        },
+        "en": {
+            "name": "Beijing Fun",
+            "description": "A creative district set in renovated historic buildings, blending culture with modern lifestyle",
+            "address": "No. 13 Langfang Toutiao, Meishi Street, Xicheng District",
+            "opening_hours": "Shops 10:00–22:00; area open 24/7",
+            "pricing": "Free to explore; coffee averages RMB 40-60 per person; cultural and creative shopping RMB 50-150; reading in the popular bookstore is free",
+            "directions": "Subway Line 2 to Qianmen (Exit C), 600 m walk; Bus 5/20 to Dashilan, 3-minute walk"
+        }
+    },
+    {
+        "category": "lifestyle_services",
+        "id": 48,
+        "poiName": "北京国际饭店",
+        "lng": 116.428434,
+        "lat": 39.909665,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "北京国际饭店诺金百货（涉外便民）",
+            "description": "紧邻使馆区的涉外便民百货，日用品、食品、进口商品齐全，英文服务完善，外籍人士采购首选",
+            "address": "东城区建国门内大街9号北京国际饭店内",
+            "opening_hours": "09:00-21:00",
+            "pricing": "日用品人均50-200元，进口食品30-100元/份，涉外服务按需收费",
+            "directions": "地铁1/2号线建国门站A口出，步行300米；公交1、52、99路建国门内站下车，步行2分钟"
+        },
+        "en": {
+            "name": "NUO Mall at Beijing International Hotel",
+            "description": "A convenient international supermarket near embassy areas, popular among expats",
+            "address": "Beijing International Hotel, No. 9 Jianguomen Inner Street, Dongcheng District",
+            "opening_hours": "09:00–21:00",
+            "pricing": "Daily essentials typically cost RMB 50-200; imported foods RMB 30-100; international assistance services available as needed",
+            "directions": "Subway Lines 1/2 to Jianguomen (Exit A), 300 m walk; Bus 1/52/99 to Jianguomen Inner, 2-minute walk"
+        }
+    },
+    {
+        "category": "lifestyle_services",
+        "id": 49,
+        "poiName": "同仁堂中医医院",
+        "lng": 116.409275,
+        "lat": 39.898596,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "同仁堂中医诊所（涉外诊疗）",
+            "description": "提供涉外中医诊疗服务的专业机构，针灸、推拿、中药调理齐全，英文诊疗方案与导诊服务",
+            "address": "朝阳区三里屯路19号太古里北区N8-30",
+            "opening_hours": "09:00-19:00（需提前预约）",
+            "pricing": "针灸200-400元/次，推拿150-300元/次，中药调理300-800元/疗程",
+            "directions": "地铁10号线团结湖站A口出，步行800米；公交113、115路三里屯站下车，步行5分钟"
+        },
+        "en": {
+            "name": "Tongrentang TCM Clinic (International Services)",
+            "description": "A professional TCM clinic offering acupuncture, massage, and herbal treatment with English consultations",
+            "address": "N8-30, Taikoo Li North, No. 19 Sanlitun Road, Chaoyang District",
+            "opening_hours": "09:00–19:00 (advance reservation required)",
+            "pricing": "Acupuncture RMB 200-400 per session; tui na massage RMB 150-300; herbal treatment plans RMB 300-800 per course",
+            "directions": "Subway Line 10 to Tuanjiehu (Exit A), 800 m walk; Bus 113/115 to Sanlitun, 5-minute walk"
+        }
+    },
+    {
+        "category": "lifestyle_services",
+        "id": 50,
+        "poiName": "北京SKP-S",
+        "lng": 116.478857,
+        "lat": 39.907336,
+        "tags": [
+            "english_friendly",
+            "international_cards_accepted",
+            "solo_friendly",
+            "group_friendly"
+        ],
+        "zh_cn": {
+            "name": "北京SKP-S（涉外潮流生活）",
+            "description": "融合科技、艺术与潮流的高端购物中心，国际潮牌、艺术展览、涉外服务齐全，外籍潮流人士聚集地",
+            "address": "朝阳区建国路86号",
+            "opening_hours": "10:00-22:00",
+            "pricing": "潮牌消费1000-5000元，艺术展览免费，餐饮人均200-500元",
+            "directions": "地铁14号线大望路站F口出，步行500米；公交312、502、666路八王坟西站下车，步行3分钟"
+        },
+        "en": {
+            "name": "Beijing SKP-S",
+            "description": "A high-end mall combining tech, art, and fashion, attracting global trendsetters",
+            "address": "No. 86 Jianguo Road, Chaoyang District",
+            "opening_hours": "10:00–22:00",
+            "pricing": "Designer and streetwear shopping typically ranges from RMB 1000-5000; art exhibitions are free; dining averages RMB 200-500 per person",
+            "directions": "Subway Line 14 to Dawanglu (Exit F), 500 m walk; Bus 312/502/666 to Bawangfen West, 3-minute walk"
+        }
+    }
+]

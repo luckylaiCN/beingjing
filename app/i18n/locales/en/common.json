@@ -1,0 +1,22 @@
+{
+  "assistant.example_prompt_1": "Where is the nearest restaurant?",
+  "assistant.example_prompt_2": "What is the weather like today?",
+  "assistant.example_prompt_3": "Tell me a joke.",
+  "assistant.title": "What can I help you find today?",
+  "home.description": "Home",
+  "website.title": "Beingjing",
+  "map.search.title": "Search",
+  "map.search.placeholder": "Search for a location",
+  "map.geofallback.title": "Failed to load map service",
+  "map.geofallback.description1": "This may be caused by geolocation failure or network issues. ",
+  "map.geofallback.description2": "Please check your location permissions and network connection, and try again.",
+  "services.buddy.description": "Local Buddy Online",
+  "services.citywalk.description": "Citywalk with Local Students",
+  "services.indoor.description": "Indoor Experiential Activity",
+  "services.description": "Services",
+  "assistant.description": "AI Assistant",
+  "map.description": "Map",
+  "aboutUs.description": "About Us",
+  "assistant.search.placeholder": "Ask, search, or make anything...",
+  "assistant.search.location_button": "Share location"
+}

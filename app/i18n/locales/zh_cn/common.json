@@ -1,0 +1,22 @@
+{
+  "assistant.example_prompt_1": "最近的餐厅在哪里？",
+  "assistant.example_prompt_2": "今天天气怎么样？",
+  "assistant.example_prompt_3": "给我讲个笑话。",
+  "assistant.title": "我能帮你找到什么？",
+  "home.description": "首页",
+  "website.title": "在京",
+  "map.search.title": "搜索",
+  "map.search.placeholder": "搜索位置",
+  "map.geofallback.title": "无法加载地图服务",
+  "map.geofallback.description1": "这可能由地理位置失败或网络问题引起。 ",
+  "map.geofallback.description2": "请检查您的位置权限和网络连接，然后重试。",
+  "services.buddy.description": "线上本地伙伴",
+  "services.citywalk.description": "与本地学生一起城市漫步",
+  "services.indoor.description": "室内沉浸式体验",
+  "services.description": "服务",
+  "assistant.description": "AI助手",
+  "map.description": "地图",
+  "aboutUs.description": "关于我们",
+  "assistant.search.placeholder": "询问、搜索或创建任何内容...",
+  "assistant.search.location_button": "分享位置"
+}
