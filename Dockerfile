@@ -109,4 +109,4 @@ USER node
 EXPOSE 3000
 
 # Start Next.js standalone server
-CMD ["node", ".next/standalone/server.js"]
+CMD ["node", "./server.js"]
