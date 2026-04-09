@@ -4,8 +4,6 @@ services:
       context: .
       dockerfile: Dockerfile
     container_name: beingjing
-    ports:
-      - "4000:3000"
     environment:
       NODE_ENV: production
       CUSTOM_API_KEY: ${CUSTOM_API_KEY}
